@@ -64,7 +64,9 @@ vmap > >gv
 
 map <C-S-o> :FufCoverageFile<Enter>
 map <C-S-p> :FufLine<Enter>
-nmap q <C-w>
+nnoremap q <C-w>
+
+nnoremap <Leader>D :let NERDTreeQuitOnOpen = 0<bar>NERDTreeToggle<CR>
 
 autocmd BufRead *.py set makeprg=python\ -c\ \"import\ py_compile,sys;\ sys.stderr=sys.stdout;\ py_compile.compile(r'%'')\"
 autocmd BufRead *.py set efm=%C\ %.%#,%A\ \ File\ \"%f\"\\,\ line\ %l%.%#,%Z%[%^\ ]%\\@=%m
