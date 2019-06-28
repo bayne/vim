@@ -1,2 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/bwpayne/Bitbucket/funraise-edge/lib/funraise_edge/store'
+let g:netrw_dirhist_2='/Users/bwpayne/Bitbucket/funraise-edge'
+let g:netrw_dirhist_3='/Users/bwpayne/Bitbucket/funraise-edge/lib'
+let g:netrw_dirhist_4='/Users/bwpayne/Bitbucket/funraise-edge/lib/funraise_edge_web'
+let g:netrw_dirhist_5='/Users/bwpayne/Bitbucket/funraise-edge/lib/funraise_edge_web/controllers'
+let g:netrw_dirhist_6='/Users/bwpayne/Bitbucket/funraise-edge/lib/funraise_edge_web/controllers/errors'
+let g:netrw_dirhist_7='/Users/bwpayne/Bitbucket/funraise-edge/lib'
+let g:netrw_dirhist_8='/Users/bwpayne/Bitbucket/funraise-edge/lib/funraise_edge_web'
+let g:netrw_dirhist_9='/Users/bwpayne/Bitbucket/funraise-edge/lib/funraise_edge_web/controllers'
