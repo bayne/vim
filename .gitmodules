@@ -1,0 +1,18 @@
+[submodule "plugged/skim.vim"]
+	path = plugged/skim.vim
+	url = https://github.com/lotabout/skim.vim.git
+[submodule "pack/bayne/start/vim-dot-http"]
+	path = pack/bayne/start/vim-dot-http
+	url = https://github.com/bayne/vim-dot-http.git
+[submodule "pack/bayne/start/gruvbox"]
+	path = pack/bayne/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/bayne/start/vim-elixir"]
+	path = pack/bayne/start/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir.git
+[submodule "pack/bayne/start/Dockerfile.vim"]
+	path = pack/bayne/start/Dockerfile.vim
+	url = https://github.com/ekalinin/Dockerfile.vim.git
+[submodule "pack/typescript/start/typescript-vim"]
+	path = pack/typescript/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
