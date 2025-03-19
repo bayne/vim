@@ -25,3 +25,6 @@
 [submodule "pack/bayne/start/vim-polyglot"]
 	path = pack/bayne/start/vim-polyglot
 	url = git@github.com:sheerun/vim-polyglot.git
+[submodule "pack/bayne/start/vim-dotchatbot"]
+	path = pack/bayne/start/vim-dotchatbot
+	url = git@github.com:bayne/vim-dotchatbot.git
